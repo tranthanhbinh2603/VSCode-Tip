@@ -1,0 +1,8 @@
+.css-rule {
+    --webkit-transition: all 4s all,
+    --moz-transition:all 4s all,
+    --ms-transition:all 4s all,
+    --o-transition:all 4s all,
+    transition:all 4s all,
+    
+}
